@@ -2,7 +2,8 @@
 
 <!-- ![](detection_long_range_demo.gif) -->
 <img src="detection_long_range_demo.gif"  alt="一張圖片">
-# Abstract
+
+#Abstract
 We propose a novel method that combine Point Cloud Map with LiDAR object detection method and extract the environment information using Graph Neural Network to improve the detection performance on long-range objects and reduce false positives. We implement our method base on a excellent object detector PV-RCNN and test on NuScenes dataset.
 # Installation
 
