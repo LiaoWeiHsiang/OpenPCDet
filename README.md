@@ -1,4 +1,4 @@
-# Improve LiDAR Object Detection Using Point Cloud Map
+# GNN-based Point Cloud Maps Feature Extraction and Residual Feature Fusion for 3D Object Detection
 
 <!-- ![](detection_long_range_demo.gif) -->
 <img src="detection_long_range_demo.gif"  alt="一張圖片">
